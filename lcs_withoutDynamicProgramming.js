@@ -45,4 +45,4 @@ function lcs(str1, str2) {
   return r[idx];
 }
 
-console.log(lcs('stone', 'longest'));
+//console.log(lcs('stone', 'longest'));
